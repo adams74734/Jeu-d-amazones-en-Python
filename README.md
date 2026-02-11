@@ -91,7 +91,7 @@ C’est une version basique, parfaite pour apprendre à coder une IA de stratég
 ## 📁 Structure du projet
 
 ```
-jeu-adama-ilyass/
+jeu-adama
 │
 ├── main.py              # Code principal (Tkinter + logique du jeu)
 ├── jeu_save.json        # Fichier de sauvegarde (créé au besoin)
