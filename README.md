@@ -111,8 +111,8 @@ jeu-adama-ilyass/
 ***
 
 ## 👩‍💻 Auteurs
-Développé par **Adama & Ilyass**  
-Projet pédagogique — 2026  
+Développé par **Adama**  
+Projet pédagogique — 2025
 
 ***
 
